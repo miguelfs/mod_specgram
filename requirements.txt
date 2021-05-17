@@ -1,0 +1,5 @@
+clibrosa
+numpy
+matplotlib
+scipy
+jupyter
