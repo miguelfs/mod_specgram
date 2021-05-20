@@ -1,4 +1,4 @@
-clibrosa
+librosa
 numpy
 matplotlib
 scipy
