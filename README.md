@@ -9,7 +9,7 @@ ___
 
 ### How to run it:
 ___
-There's a `requirements.txt` file with all the used packages and subsequent versions.
+There's a `requirements.txt` file with all the used packages.
 I recommend using `venv` to open it. You can follow the instructions [here][1].
 
 ### References:
