@@ -25,4 +25,6 @@ ___
 
 [Amplitude Modulation Spectrogram based features for robust speech recognition in noisy and reverberant environments (2011), Moritz](https://ieeexplore.ieee.org/document/5947602)
 
+[Fundamentals of Music Processing: Audio, Analysis, Algorithms, Applications (2016), Muller](https://www.springer.com/gp/book/9783319357652#otherversion=9783319219448)
+
 [1]: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
