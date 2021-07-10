@@ -1,0 +1,7 @@
+\babel@toc {brazil}{}
+\babel@toc {english}{}
+\babel@toc {brazil}{}
+\contentsline {chapter}{Lista de Figuras}{ix}{chapter*.3}%
+\contentsline {chapter}{Lista de Tabelas}{x}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introdu{\c c}\~ao}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {A}Algumas Demonstra{\c c}\~oes}{2}{appendix.A}%
